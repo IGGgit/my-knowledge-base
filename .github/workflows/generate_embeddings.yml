@@ -12,4 +12,4 @@ jobs:
           supabase-url: "https://nbqfpsevgvisopclrhgu.supabase.co"
           supabase-service-role-key: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           openai-key: ${{ secrets.OPENAI_KEY }}
-          docs-root-path: "docs
+          docs-root-path: "docs"
